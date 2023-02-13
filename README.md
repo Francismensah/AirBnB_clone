@@ -66,7 +66,7 @@ EOF  help  quit
 (hbnb)
 $
 ```
-
+This project is hard but I have learnt a lot
 ## Testing :straight_ruler:
 
 Unittests for the HolbertonBnB project are defined in the [tests](./tests)
